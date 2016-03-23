@@ -1,0 +1,2 @@
+I worked with Hadoop MapReduce on a Big Data class project to find (among other things) the max elevation of weather stations based on weather reading input strings, the location of this station, max temperature recorded in the US, and Northmost station. The files are well commented.
+We used the general MapReduce format of separate Mapper and Reducer classes, each taking in key-value pairs from the weather station data.
